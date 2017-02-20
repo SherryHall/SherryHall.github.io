@@ -1,0 +1,58 @@
+body {
+	font-size : 16px;
+	font-family: 'Open Sans', sans-serif;
+	color : #000000;
+	
+}
+
+h1,
+h2 {
+	color : #021073;
+    font-family: 'Courgette', cursive;
+    font-weight: 700;
+}
+
+h1 {
+	font-size : 60px;
+}
+h2 {
+	font-size : 40px;
+}
+header {
+	background-color : #e6e6fe;
+}
+header .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+section {
+	padding : 50px 20px;
+}
+.goto-link {
+	color : #802D0F;
+	font-weight : 700;
+} 
+#about {
+	background-color : #f6f6f5;
+}
+#skills {
+	color : #ffffff;
+	background-color : #19194d
+}
+#skills h2,
+#contact h2 {
+	color: #ffffff;
+}
+
+#contact {
+	color : #ffffff;
+	background-color : #055480;
+	font-weight : 700;
+	padding : 20px 20px;
+	
+}
+#contact a {
+	color : #ffffff;
+	text-decoration : underline;
+}
